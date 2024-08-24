@@ -13,4 +13,5 @@ docs/
 # Dotenv file
 .env
 
-lib/openzeppelin-contracts
+lib/
+.DS_store
