@@ -9,16 +9,8 @@ out/
 
 # Docs
 docs/
-lib
 
 # Dotenv file
 .env
 
-.DS_STORE
-/target
-out/
-out.json
-.idea
-.vscode
-bloat*
-forge-std/
+lib/openzeppelin-contracts
